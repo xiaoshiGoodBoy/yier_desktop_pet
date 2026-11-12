@@ -34,7 +34,7 @@
 - 提醒触发后写入本地历史记录。
   
 ### 桌宠
-<img width="329" height="399" alt="image" src="https://github.com/user-attachments/assets/c7d9f4aa-95ff-41b6-9550-f9fae733bacc" />
+<img width="329" height="399" alt="image" src="https://github.com/user-attachments/assets/a71a3140-b82f-427d-8c63-4f4b6821033b" />
 
 
 ### 面板功能
