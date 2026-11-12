@@ -39,3 +39,5 @@
 
 ### 面板功能
 <img width="1179" height="807" alt="image" src="https://github.com/user-attachments/assets/b7dae061-8743-413e-96a1-afd5514de7f3" />
+
+### 目前有window和mac安装包
